@@ -1,4 +1,4 @@
-name := "hsr-intte-skeleton"
+name := "IntTe Uebungen"
 
 version := "0.0.1"
 
