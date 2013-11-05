@@ -47,7 +47,7 @@ object IntteUBuild extends Build {
     "intteu",
     file("."),
     settings = buildSettings ++ Seq(
-      name := "hsr-intte-skeleton"
+      name := "IntTe Uebungen"
     )
   ) dependsOn (inttewebapp)
 
